@@ -39,6 +39,6 @@ while True:
         break
 
 
-limit = chess.engine.Limit(time=2.0)
-engine.play(board,limit)
+#limit = chess.engine.Limit(time=2.0)
+#engine.play(board,limit)
 engine.quit()
